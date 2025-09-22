@@ -1,0 +1,29 @@
+{
+  "metaTitle": "Certified and Licensed Roofers in [location]",
+  "metaDescription": "Trusted local roofing experts for repair, replacement and storm response, honest quotes and quality workmanship with community care. Call [phone]",
+  "bannerQuote": "",
+  "bannerImage": "https://ik.imagekit.io/z6skgnupx/ibroofingca_com/Roofing_Services_about_bannerImage_27QXnclpz.jpg",
+  "h1Banner": "Certified and Licensed Roofers in [location]",
+  "p1Banner": "Trusted local roofing experts for repair, replacement and storm response, honest quotes and quality workmanship with community care. Call [phone]",
+  "p2": "IB Roofing started as a small, family-run contracting business and grew into a community-trusted roofing company built on integrity and craft. Over the years, we’ve focused on roof repair, replacement, preventative maintenance, and storm restoration—always using durable materials, transparent pricing, and a hands-on approach that treats every home like our own. We proudly serve [location] with prompt inspections, clear estimates, and a commitment to standing behind our work.",
+  "h2Image": "https://ik.imagekit.io/z6skgnupx/ibroofingca_com/Roofing_Services_about_h2Image_wsjzlKhsI.jpg",
+  "missionSection": [
+    {
+      "title": "Our Mission",
+      "description": "To protect homes and businesses by delivering dependable, high-quality roofing services—timely repairs, honest recommendations, and craftsmanship that lasts. We focus on clear communication, fair estimates, and workmanship that gives homeowners confidence."
+    },
+    {
+      "title": "Our Team",
+      "description": "Our crew brings decades of combined roofing experience, including certified installers, storm-repair specialists, and experienced project managers. We specialize in asphalt shingles, metal, flat roofs, and roof replacements, and prioritize safety, continual training, and meticulous cleanups after every job."
+    },
+    {
+      "title": "Our Values",
+      "description": "We stand apart through professionalism, accountability, and community focus: arriving on time, protecting property, honoring warranties, and supporting neighbors with honest work. Our reputation is built on long-term relationships and a commitment to doing roofing right."
+    }
+  ],
+  "areaweserveSection": {
+    "description": "We proudly provide residential and commercial roofing services in [location]. Ready to protect your home? Call us to schedule a free inspection and no-obligation estimate, or request an estimate online today — we’ll respond quickly and respectfully.",
+    "linkText": "Check our Roofing service locations here.",
+    "link": "/locations"
+  }
+}
